@@ -15,9 +15,9 @@
 * 인공지능
 
 프로그래밍 언어    
-1. JAVA
-2. Python
-3. C
+* JAVA
+* Python
+* C
 
 ---------
 
