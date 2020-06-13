@@ -26,3 +26,8 @@
 |JAVA프로그래밍|JAVA프로그래밍 개요|3|
 |Python|Python 배우기|2|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
+
+
+github address : [ji0U0q][github]
+
+[github]:http://github.com/ji0U0q
